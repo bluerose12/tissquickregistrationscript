@@ -116,7 +116,7 @@ SOFTWARE.
         lvaCheckEnabled: true,
 
         // only if the number is right, the script is enabled [String]
-        lvaNumber: "123.456",
+        lvaNumber: "264.252",
 
         // if you have multiple study codes, enter here the study code number you want
         // to register for eg. '123456' (no blanks). Otherwise leave empty. [String]
