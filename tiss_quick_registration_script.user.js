@@ -101,13 +101,13 @@ SOFTWARE.
         scriptEnabled: true,
 
         // define here the type of registration [lva,group,exam]
-        registrationType: "group",
+        registrationType: "LU",
 
         // name of you the group you want to join (only for registrationType 'group') [String]
         nameOfGroup: "Gruppe 001",
 
         // name of the exam which you want to join (only for registrationType 'exam') [String]
-        nameOfExam: "Name Of Exam",
+        nameOfExam: "Einführung Prefab-Lab / Werkstattführerschein",
 
         // date of the exam which you want to join, especially when there are multiple exams with the same name (only for registrationType 'exam') [String]
         dateOfExam: '',
@@ -116,7 +116,7 @@ SOFTWARE.
         lvaCheckEnabled: true,
 
         // only if the number is right, the script is enabled [String]
-        lvaNumber: "123.456",
+        lvaNumber: "264.252",
 
         // if you have multiple study codes, enter here the study code number you want
         // to register for eg. '123456' (no blanks). Otherwise leave empty. [String]
